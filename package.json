@@ -3,7 +3,7 @@
   "description": "Hide tweets from blue checks on Twitter",
   "scripts": {
     "build": "parcel build src/manifest.json --no-content-hash --no-source-maps --dist-dir dist --no-cache --detailed-report 0",
-    "test": "run-p lint:* build",
+    "test": "run-p build",
     "watch": "parcel watch src/manifest.json --dist-dir dist --no-cache --no-hmr"
   },
   "browserslist": [

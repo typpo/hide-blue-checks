@@ -1,7 +1,7 @@
-# Privacy Policy for browser-extension-template
+# Privacy Policy for hide-blue-checks
 
-No data or personal information is collected by browser-extension-template.
+No data or personal information is collected by this extension.
 
 ##### Contact
 
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact us](https://github.com/fregante/browser-extension-template/issues/new).
+If you have any questions or suggestions regarding this privacy policy, do not hesitate to [contact us](https://github.com/typpo/hide-blue-checks/issues/new).
